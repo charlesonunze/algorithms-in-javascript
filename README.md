@@ -1,2 +1,2 @@
-# sort-algorithms-in-javascript
-Popular sort algorithms implemented in JavaScript
+# algorithms-in-javascript
+Algorithms implemented in JavaScript
